@@ -1,4 +1,4 @@
-# Image detecting  Robot--firebird-
+# Image detecting  Robot--firebird-v
 
 Its python code written for firebird 5 which is burnt with com interface code 
 
